@@ -49,7 +49,7 @@ export const FlanPredictionSection = () => {
   );
 
   return (
-    <div className="grid grid-cols-2 pt-16">
+    <div className="grid grid-cols-1 gap-4 pt-16 md:grid-cols-2">
       <div className="space-y-8 pr-16">
         <h2 className="text-xl font-bold dark:text-white md:text-2xl md:leading-tight">Run the model</h2>
         <div className="relative">

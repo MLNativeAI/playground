@@ -117,7 +117,7 @@ export const ResnetPredictionSection = () => {
     }
   };
   return (
-    <div className="grid grid-cols-2 pt-16">
+    <div className="grid grid-cols-1 gap-4 pt-16 md:grid-cols-2">
       <div>
         <h2 className="text-xl font-bold dark:text-white md:text-2xl md:leading-tight">Run the model</h2>
         <div className="flex-row space-y-4 py-8">
