@@ -44,7 +44,7 @@ export const ModelList = () => (
       <div className="text-2xl font-semibold text-gray-800">Model directory</div>
       <span className="text-gray-500">
         We've prepared the following models to demonstrate the power and use cases for various AI application in
-        real-world applications. These models are complete free, available for you to try out and use in your own
+        real-world applications. These models are complete free and available for you to try out and use in your own
         projects.{' '}
         <Link className="underline" href="/about">
           {' '}
