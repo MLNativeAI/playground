@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 export const Banner = () => {
   return (
-    <div className="min-w-100 flex min-h-full flex-grow flex-col items-center justify-center lg:py-40">
+    <div className="min-w-100 flex min-h-full flex-grow flex-col items-center justify-center py-8 lg:py-40">
       <div className="flex flex-col items-center justify-center">
         <div className="mx-auto max-w-2xl text-center">
           <p className="inline-block bg-gradient-to-l from-blue-600 to-violet-500 bg-clip-text text-sm font-medium text-transparent dark:from-blue-400 dark:to-violet-400">

@@ -41,7 +41,7 @@ export const CodeListing = ({ code, clipboardCode }: CodeListingProps) => {
   };
 
   return (
-    <div className="flex flex-row items-start rounded-xl bg-gray-900 p-4 text-gray-200">
+    <div className="flex flex-row items-start break-all rounded-xl bg-gray-900 p-4 text-gray-200	">
       <code className="prose text-sm">$ {code}</code>
       <div className="flex flex-row space-x-4"></div>
       <a
