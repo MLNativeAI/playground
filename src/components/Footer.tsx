@@ -23,7 +23,6 @@ export const Footer = () => (
         <div className="">
           <p className="space-x-2 text-gray-500">
             <a href="https://www.mlnative.com/privacy-policy">Privacy policy</a>
-            <a href="/terms">Terms of service</a>
           </p>
         </div>
 
