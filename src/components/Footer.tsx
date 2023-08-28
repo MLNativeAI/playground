@@ -44,7 +44,7 @@ export const Footer = () => (
           </a>
           <a
             className="inline-flex h-10 w-10 items-center justify-center gap-x-3.5 rounded-md text-center text-gray-200 transition hover:bg-white/[.1] focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 focus:ring-offset-gray-900"
-            href="#"
+            href="https://discord.gg/ESfdm4G55a"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
